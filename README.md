@@ -45,4 +45,8 @@
 - In this case study, we will be using the BayesianOptimization library to perform hyperparmater tuning. Also utilized LightGBM, a gradient boosting framework that uses tree-based learning algorithms.
 
 ## 6 - Data Storytelling
-- An important aspect of Data Science is presenting your findings. In this study we create an engaging story around an animal shelter dataset to influence individuals next time they're looking for a pet. 
+- An important aspect of Data Science is presenting your findings. In this study we create an engaging story around an animal shelter dataset to influence individuals next time they're looking for a pet.
+
+## 7 - Time Series Analysis
+#### Cowboy Cigarettes: A Time Series Investigation
+- Used 1949-1960 data to predict whether the manufacturer's cigarette sales actually increased, decreased, or stayed the same in the early 60s. Using this data we made a probable reconstruction of the sales record of the manufacturer - predicting the future, from the perspective of the past.
